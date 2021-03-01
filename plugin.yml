@@ -1,0 +1,8 @@
+name: rhCastleMod
+author: Inder00
+main: pl.inder00.rihc.castlemod.CastleMod
+version: 0.3 Alpha
+commands:
+  castlemod:
+    description: Glowna komenda pluginu
+    aliases: [cm,cmod]

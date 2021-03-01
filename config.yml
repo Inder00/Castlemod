@@ -1,0 +1,13 @@
+config:
+  lobby:
+    x: 0
+    y: 0
+    z: 0
+    world: world
+  coins:
+    kill: 5
+    win: 20
+  game:
+    start: 2
+  ranking:
+    death: 20
